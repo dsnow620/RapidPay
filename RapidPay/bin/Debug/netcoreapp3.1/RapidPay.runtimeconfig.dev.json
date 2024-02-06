@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dsnow\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dsnow\\.nuget\\packages"
+    ]
+  }
+}
