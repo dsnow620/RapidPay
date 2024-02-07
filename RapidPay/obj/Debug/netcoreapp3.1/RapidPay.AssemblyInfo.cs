@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RapidPay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba45475fe4bdd4bad9f30cb879fd90c8c9b38e91")]
 [assembly: System.Reflection.AssemblyProductAttribute("RapidPay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RapidPay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
